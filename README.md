@@ -8,7 +8,7 @@
 
 ![](https://github.com/priya-balajii/Cryptocurrency-Analysis-Dashboard/blob/81ac90467cb56097bc2435162b7906d9be63885f/img/overview.PNG)
 <br/>
-*Keywords*: Data Visualization, Missing Data, Imbalanced Datan
+*Keywords*: Data Visualization, Dashboard 
 *Tools*: Power BI, DAX
 
 <br/>

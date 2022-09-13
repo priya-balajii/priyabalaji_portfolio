@@ -18,7 +18,7 @@
  * Understanding the impact of abortion laws (and therefore, state’s political ideology) on rates of abortion, foster care entry, and adoption
  * Determining what factors contribute to an increase/decrease of foster care entry rates
 
-![](https://github.com/priya-balajii/FosterCare/blob/ff7fb2bf53c85ee443c7e15d1e6f5b68c6859b92/img/compare2.png)
+![](https://github.com/priya-balajii/FosterCare/blob/ff7fb2bf53c85ee443c7e15d1e6f5b68c6859b92/img/foster_political.png)
 <br/>
 *Keywords*: Abortion ban, Foster Care, Adoption
 *Tools*: Python - pandas, numpy, seaborn, matplotlib

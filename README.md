@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Hello, I am Priya Balaji. I have 2 years experience as a data analyst. My core skills include Power BI, Python, SQL and Statictics. Also, I am Microsoft Certified: Power BI Data Analyst Associate - [Verify here](https://www.credly.com/badges/d9a49a45-15ab-41eb-8fd3-686962a75c46/public_url)
+Hello, I am Priya Balaji. I have 2 years of experience as a data analyst. My core skills include Power BI, Python, SQL and Statictics. Also, I am Microsoft Certified: Power BI Data Analyst Associate - [Verify here](https://www.credly.com/badges/d9a49a45-15ab-41eb-8fd3-686962a75c46/public_url)
 
 #### 1. [Power BI Cryptocurrency Analysis Dashboard](https://github.com/priya-balajii/Cryptocurrency-Analysis-Dashboard) (click here for more details)
   * Dynamic Cryptocurrency Analysis Dashboard using Power Bi and DAX language
